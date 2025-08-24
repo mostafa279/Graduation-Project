@@ -1,4 +1,5 @@
 ﻿using Elearning.Infrastructure.Data;
+using Elearning.Infrastructure.Interceptros;
 using Microsoft.EntityFrameworkCore;
 
 namespace Elearning.API.Extensions
@@ -12,7 +13,8 @@ namespace Elearning.API.Extensions
 
             builder.Services.AddDbContext<ApplicationDbContext>(option =>
             {
-                option.UseSqlServer(connectionString);
+                option.UseSqlServer(connectionString)
+                .AddInterceptors(new SoftDeleteInterceptor());
             });
         }
     }
