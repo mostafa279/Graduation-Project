@@ -1,0 +1,17 @@
+D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Infrastructure\bin\Debug\net8.0\Elearning.Infrastructure.deps.json
+D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Infrastructure\bin\Debug\net8.0\Elearning.Infrastructure.runtimeconfig.json
+D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Infrastructure\bin\Debug\net8.0\Elearning.Infrastructure.dll
+D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Infrastructure\bin\Debug\net8.0\Elearning.Infrastructure.pdb
+D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Infrastructure\bin\Debug\net8.0\Elearning.Core.dll
+D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Infrastructure\bin\Debug\net8.0\Elearning.Core.pdb
+D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Infrastructure\obj\Debug\net8.0\Elearning.Infrastructure.csproj.AssemblyReference.cache
+D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Infrastructure\obj\Debug\net8.0\Elearning.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Infrastructure\obj\Debug\net8.0\Elearning.Infrastructure.AssemblyInfoInputs.cache
+D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Infrastructure\obj\Debug\net8.0\Elearning.Infrastructure.AssemblyInfo.cs
+D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Infrastructure\obj\Debug\net8.0\Elearning.Infrastructure.csproj.CoreCompileInputs.cache
+D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Infrastructure\obj\Debug\net8.0\Elearnin.41265440.Up2Date
+D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Infrastructure\obj\Debug\net8.0\Elearning.Infrastructure.dll
+D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Infrastructure\obj\Debug\net8.0\refint\Elearning.Infrastructure.dll
+D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Infrastructure\obj\Debug\net8.0\Elearning.Infrastructure.pdb
+D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Infrastructure\obj\Debug\net8.0\Elearning.Infrastructure.genruntimeconfig.cache
+D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Infrastructure\obj\Debug\net8.0\ref\Elearning.Infrastructure.dll
