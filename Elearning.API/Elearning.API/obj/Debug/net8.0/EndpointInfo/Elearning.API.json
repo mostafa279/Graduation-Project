@@ -1,9 +1,34 @@
 {
   "openapi": "3.0.1",
   "info": {
-    "title": "Elearning.API",
-    "version": "1.0"
+    "title": "Graduation Project API",
+    "description": "Our project endpoints",
+    "termsOfService": "https://www.google.com",
+    "contact": {
+      "name": "Ecommerce",
+      "url": "https://www.google.com",
+      "email": "atwamostafa5@gmail.com"
+    },
+    "license": {
+      "name": "Graduation Project",
+      "url": "https://www.google.com"
+    },
+    "version": "v1"
   },
   "paths": { },
-  "components": { }
+  "components": {
+    "securitySchemes": {
+      "Bearer": {
+        "type": "apiKey",
+        "description": "Enter 'Bearer' [space] and then your token in the input field.\r\nExample: \"Bearer abcdef12345\"",
+        "name": "Authorization",
+        "in": "header"
+      }
+    }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
 }

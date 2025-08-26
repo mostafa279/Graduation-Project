@@ -153,3 +153,4 @@ D:\programming\Backend\Graduation Project\Elearning.API\Elearning.API\bin\Debug\
 D:\programming\Backend\Graduation Project\Elearning.API\Elearning.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\programming\Backend\Graduation Project\Elearning.API\Elearning.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\programming\Backend\Graduation Project\Elearning.API\Elearning.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\Backend\Graduation Project\Elearning.API\Elearning.API\obj\Debug\net8.0\Elearning.API.sourcelink.json

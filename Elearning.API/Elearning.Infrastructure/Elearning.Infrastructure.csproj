@@ -8,9 +8,7 @@
 
   <ItemGroup>
     <Folder Include="SeedData\" />
-    <Folder Include="SpecificationsEvaluator\" />
     <Folder Include="Services\" />
-    <Folder Include="Repositories\" />
   </ItemGroup>
 
   <ItemGroup>

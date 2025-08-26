@@ -15,3 +15,4 @@ D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Infrastructure
 D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Infrastructure\obj\Debug\net8.0\Elearning.Infrastructure.pdb
 D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Infrastructure\obj\Debug\net8.0\Elearning.Infrastructure.genruntimeconfig.cache
 D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Infrastructure\obj\Debug\net8.0\ref\Elearning.Infrastructure.dll
+D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Infrastructure\obj\Debug\net8.0\Elearning.Infrastructure.sourcelink.json

@@ -10,3 +10,4 @@ D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Core\obj\Debug
 D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Core\obj\Debug\net8.0\refint\Elearning.Core.dll
 D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Core\obj\Debug\net8.0\Elearning.Core.pdb
 D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Core\obj\Debug\net8.0\ref\Elearning.Core.dll
+D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Core\obj\Debug\net8.0\Elearning.Core.sourcelink.json
