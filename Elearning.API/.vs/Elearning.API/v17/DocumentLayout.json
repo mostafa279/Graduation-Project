@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\programming\\Backend\\Graduation Project\\Elearning.API\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\gam3a\\grad_project\\Graduation-Project\\Elearning.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E30A151-677C-4EA9-AB3F-324EA1FF7087}|Elearning.API\\Elearning.API.csproj|d:\\gam3a\\grad_project\\graduation-project\\elearning.api\\elearning.api\\elearning.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6E30A151-677C-4EA9-AB3F-324EA1FF7087}|Elearning.API\\Elearning.API.csproj|solutionrelative:elearning.api\\elearning.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E30A151-677C-4EA9-AB3F-324EA1FF7087}|Elearning.API\\Elearning.API.csproj|d:\\gam3a\\grad_project\\graduation-project\\elearning.api\\elearning.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E30A151-677C-4EA9-AB3F-324EA1FF7087}|Elearning.API\\Elearning.API.csproj|solutionrelative:elearning.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,41 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\gam3a\\grad_project\\Graduation-Project\\Elearning.API\\Elearning.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Elearning.API\\appsettings.json",
+              "ToolTip": "D:\\gam3a\\grad_project\\Graduation-Project\\Elearning.API\\Elearning.API\\appsettings.json",
+              "RelativeToolTip": "Elearning.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-27T20:49:33.893Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Elearning.API.csproj",
+              "DocumentMoniker": "D:\\gam3a\\grad_project\\Graduation-Project\\Elearning.API\\Elearning.API\\Elearning.API.csproj",
+              "RelativeDocumentMoniker": "Elearning.API\\Elearning.API.csproj",
+              "ToolTip": "D:\\gam3a\\grad_project\\Graduation-Project\\Elearning.API\\Elearning.API\\Elearning.API.csproj",
+              "RelativeToolTip": "Elearning.API\\Elearning.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-27T20:37:20.937Z",
+              "EditorCaption": ""
             }
           ]
         }

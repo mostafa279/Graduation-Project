@@ -11,3 +11,16 @@ D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Core\obj\Debug
 D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Core\obj\Debug\net8.0\Elearning.Core.pdb
 D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Core\obj\Debug\net8.0\ref\Elearning.Core.dll
 D:\programming\Backend\Graduation Project\Elearning.API\Elearning.Core\obj\Debug\net8.0\Elearning.Core.sourcelink.json
+D:\gam3a\grad_project\Graduation-Project\Elearning.API\Elearning.Core\bin\Debug\net8.0\Elearning.Core.deps.json
+D:\gam3a\grad_project\Graduation-Project\Elearning.API\Elearning.Core\bin\Debug\net8.0\Elearning.Core.dll
+D:\gam3a\grad_project\Graduation-Project\Elearning.API\Elearning.Core\bin\Debug\net8.0\Elearning.Core.pdb
+D:\gam3a\grad_project\Graduation-Project\Elearning.API\Elearning.Core\obj\Debug\net8.0\Elearning.Core.csproj.AssemblyReference.cache
+D:\gam3a\grad_project\Graduation-Project\Elearning.API\Elearning.Core\obj\Debug\net8.0\Elearning.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\gam3a\grad_project\Graduation-Project\Elearning.API\Elearning.Core\obj\Debug\net8.0\Elearning.Core.AssemblyInfoInputs.cache
+D:\gam3a\grad_project\Graduation-Project\Elearning.API\Elearning.Core\obj\Debug\net8.0\Elearning.Core.AssemblyInfo.cs
+D:\gam3a\grad_project\Graduation-Project\Elearning.API\Elearning.Core\obj\Debug\net8.0\Elearning.Core.csproj.CoreCompileInputs.cache
+D:\gam3a\grad_project\Graduation-Project\Elearning.API\Elearning.Core\obj\Debug\net8.0\Elearning.Core.sourcelink.json
+D:\gam3a\grad_project\Graduation-Project\Elearning.API\Elearning.Core\obj\Debug\net8.0\Elearning.Core.dll
+D:\gam3a\grad_project\Graduation-Project\Elearning.API\Elearning.Core\obj\Debug\net8.0\refint\Elearning.Core.dll
+D:\gam3a\grad_project\Graduation-Project\Elearning.API\Elearning.Core\obj\Debug\net8.0\Elearning.Core.pdb
+D:\gam3a\grad_project\Graduation-Project\Elearning.API\Elearning.Core\obj\Debug\net8.0\ref\Elearning.Core.dll
